@@ -56,3 +56,6 @@ This project uses [mix format](https://hexdocs.pm/mix/master/Mix.Tasks.Format.ht
 ## Licensing
 
 MIT © Ezinwa Okpoechi
+
+
+<!-- Security scan triggered at 2026-08-31 17:25:41 -->
